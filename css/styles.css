@@ -12,8 +12,7 @@ body {
 	margin: 0;
 	position:relative;
 /*Set max width and default margins*/
-min-width: 240px;
-	max-width: 1280px;
+	min-width: 240px;
 	margin-left: auto;
 	margin-right: auto;
 }
